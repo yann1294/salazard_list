@@ -8,3 +8,9 @@
     height: 250px; /* Your height here */
     overflow: hidden;
 }
+
+.flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
