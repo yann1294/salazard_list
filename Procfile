@@ -1,0 +1,1 @@
+web: gunicorn salazard_list.wsgi
